@@ -18,3 +18,8 @@ The following configuration is suggested for training the model with 3 gpus. For
 ---
 # Testing
 We provide a template for testing the model after training and visualization in the [Inference notebook](https://github.com/SiaK4/cGAN-image-to-temperature-mapping/Inference.ipynb)  
+
+--- 
+# Dataset and Checkpoints
+A sample of the dataset is provided in this repo. Full dataset will be available only upon reasonable requests from the corresponding authors of the paper.  
+You can download the checkpoints for the generator and discriminator from [Link Text](https://huggingface.co/SiaK4/Image_to_IR/tree/main)
